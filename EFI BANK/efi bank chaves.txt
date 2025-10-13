@@ -1,0 +1,15 @@
+efi bank chaves
+
+producao
+
+Client_Id_b8835c974c4ab781cfb8b82d035300a01a68d7be
+
+Client_Secret_f97ffcb9e9ebc40f5e16b609cd4af8a5eb50bc70
+
+
+
+Homologacao
+
+Client_Id_ec05c7894c2f37d9185b30c332a8d274d14efc28
+
+Client_Secret_c7c03629edecf3995ef67f52c1da456f4361cacb
